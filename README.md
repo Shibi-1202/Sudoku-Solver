@@ -1,5 +1,5 @@
 __Sudoku Solver__
-A Python-based GUI Sudoku Solver built using Tkinter. This tool allows users to input a Sudoku puzzle, validate it, and solve the puzzle. The program visually highlights invalid inputs and offers functionalities to reset the board or attempt to solve the puzzle automatically.
+A Python-based GUI Sudoku Solver built using Tkinter. This tool allows users to input a Sudoku puzzle, validate it, and solve the puzzle. The program visually highlights inputs and offers functionalities to reset the board or attempt to solve the puzzle automatically.
 
 __Features__
 
