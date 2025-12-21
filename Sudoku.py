@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Function to check if a number can be placed in the given cell
 def valid(board, row, col, num):
     for x in range(9):
@@ -42,7 +42,7 @@ def print_board(board):
             else:
                 print(str(board[i][j]) + " " , end = "")
 
-=======
+
 # Function to check if a number can be placed in the given cell
 def valid(board, row, col, num):
     for x in range(9):
@@ -86,4 +86,4 @@ def print_board(board):
             else:
                 print(str(board[i][j]) + " " , end = "")
 
->>>>>>> bed53f0348b7331efda1101b457e6f90ee36de49
+
